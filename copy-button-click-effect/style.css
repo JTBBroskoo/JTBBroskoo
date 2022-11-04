@@ -24,7 +24,6 @@ body {
   border-radius: 15px;
   box-shadow: 20px 20px 15px 0 #ababab4d;
   cursor: pointer;
-  /* animation: bounce 0.3s 1 forwards; */
 }
 svg {
   width: 50px;
@@ -35,10 +34,10 @@ svg:last-child {
 }
 
 .icon-conatiner:active {
-  animation: press 0.2s 1 linear;
+  animation: press 1.8s 1 linear;
 }
 .icon-conatiner:active svg:last-child {
-  animation: bounce 0.2s 1 linear;
+  animation: bounce 1.8s 1 linear;
 }
 .text {
   color: #666;

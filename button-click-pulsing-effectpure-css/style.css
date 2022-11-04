@@ -1,4 +1,3 @@
-/* ---------- Useful Button styling ---------- */
 
 .button{
   position: relative;
@@ -51,7 +50,6 @@
 
 
 
-/* ---------- Looking nice on CodePen ---------- */
 
 @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
 
@@ -67,7 +65,7 @@ body{
   justify-content: center;
   font-family: "Jost", sans-serif;
   font-size:14px;
-  background-image: linear-gradient(to bottom right, #ffa578, #ff675a);
+  background-image: linear-gradient(to bottom right, blue);
 }
 
 h1 {
